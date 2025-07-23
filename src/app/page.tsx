@@ -260,7 +260,7 @@ const Home = () => {
             </p>
           </div>
 
-          <div className='flex items-start justify-center gap-12'>
+          <div className='flex items-start flex-col md:flex-row justify-center gap-12'>
             {/* Form Section */}
             <div className='scroll-animate-left bg-gray-50 rounded-2xl p-8'>
               <h3 className='text-2xl font-bold text-gray-900 mb-6'>
