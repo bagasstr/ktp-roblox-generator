@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: 'KTP Roblox Generator - Buat KTP Avatar Roblox Gratis',
   description:
     'Layanan pembuatan KTP (Kartu Tanda Penduduk) untuk avatar Roblox Anda. Desain profesional, mudah digunakan, dan gratis! Buat identitas unik untuk karakter Roblox Anda.',
+  verification: {
+    google: 'YMj7gWCedS8T0eCRl9Zh_zKDRdk1OedxTcZsjQNTFA8',
+  },
 }
 
 export default function RootLayout({
